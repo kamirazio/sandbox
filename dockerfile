@@ -1,4 +1,4 @@
-FROM jupyter/base-notebook:latest
+FROM image-registry.apps.2.rahti.csc.fi/noppe-public-images/jupyter-datascience:2024-07-17
 
 # 必要なパッケージをインストール
 USER root
